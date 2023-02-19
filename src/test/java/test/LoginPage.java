@@ -1,2 +1,4 @@
-package test;public class LoginPage {
+package test;
+
+public class LoginPage {
 }
